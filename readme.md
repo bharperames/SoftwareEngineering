@@ -58,11 +58,11 @@ Engineers interviewing at leading firms should evaluate employers on their AI in
 To understand how rapidly the landscape has shifted, consider how a "technically smart" graduating software engineer sounded in **2020** compared to today.
 
 **The 2020 Graduate:**
-*"I've deep-dived into the internals of the V8 JavaScript engine to optimize garbage collection pauses. I can recite the TCP/IP handshake sequence from memory, and I've spent the last month mastering the specific rendering quirks and lifecycle hooks of React 16. I always manually manage my Docker networking bridges."*
-* **Focus:** Encyclopedic syntax knowledge, framework-specific lifecycle hooks, manual infrastructure management, and deterministic state architectures.
+*"I've deep-dived into the internals of the V8 JavaScript engine to optimize garbage collection pauses. I can recite the TCP/IP handshake sequence from memory, and I've spent the last month mastering the specific rendering quirks and lifecycle hooks of React 16. I always manually manage my Docker networking bridges, and I pride myself on using interactive rebasing to flawlessly squash my granular local commits before meticulously resolving deep merge conflicts by hand."*
+* **Focus:** Encyclopedic syntax knowledge, framework-specific lifecycle hooks, manual infrastructure management, deterministic state architectures, and low-level version control operations.
 
 **The Modern Graduate (2026+):**
-*"I've optimized our team's agentic loop to reduce our token burn rate by 15% without degrading output quality. I implemented a multi-fidelity router that sends routine data transformation tasks to a local, quantized 8B open-weight model, saving our expensive frontier API calls strictly for complex system reasoning. I also built a deterministic sandbox to isolate and automatically self-certify the AI's probabilistic execution."*
-* **Focus:** Token economics, probabilistic vs. deterministic routing, model sizing (parameters vs latency), RAG/context management, and mitigating unpredictable compute costs.
+*"I've optimized our team's agentic loop to reduce our token burn rate by 15% without degrading output quality. I implemented a multi-fidelity router that sends routine data transformation tasks to a local, quantized 8B open-weight model, saving our expensive frontier API calls strictly for complex system reasoning. I also built a deterministic sandbox to isolate and automatically self-certify the AI's probabilistic execution, and I deployed a specialized open-weight agent into our CI pipeline to automatically resolve logical merge conflicts and write its own test coverage assertions."*
+* **Focus:** Token economics, probabilistic vs. deterministic routing, model sizing (parameters vs latency), RAG/context management, automated agentic pipelines, and mitigating unpredictable compute costs.
 
 The underlying engineering rigor hasn't changed—but the fundamental abstraction layer has permanently shifted upwards.
