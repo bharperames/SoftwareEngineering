@@ -62,7 +62,7 @@ To understand how rapidly the landscape has shifted, consider how a "technically
 * **Focus:** Encyclopedic syntax knowledge, framework internals, and manual command-line operation.
 
 **The Modern Graduate (2026+):**
-*"I optimized our team's agentic loop to reduce token burn rate by 15%. I routed routine data transformations to a local 8B model, saving expensive frontier calls for complex reasoning. Instead of resolving merge conflicts or writing boilerplate manually, I coordinate our IDE's AI to handle the heavy lifting."*
-* **Focus:** Token economics, multi-fidelity routing, model sizing, and orchestrating AI workflows.
+*"I optimized our team's agentic loop to reduce token burn rate by 15%. I routed routine data transformations to a local 8B model, saving expensive frontier calls for complex reasoning. Instead of resolving merge conflicts or writing boilerplate manually, I use the AI agents to handle the heavy lifting through tool configuration and prompt engineering."*
+* **Focus:** Token economics, multi-fidelity routing, model sizing, orchestrating and optimizing AI workflows.
 
 The underlying engineering rigor hasn't changed—but the fundamental abstraction layer has permanently shifted upwards.

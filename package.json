@@ -1,0 +1,11 @@
+{
+  "name": "aiswe-curriculum",
+  "version": "1.0.0",
+  "description": "AI Software Engineering Curriculum and Dictionary",
+  "scripts": {
+    "build": "make pdf"
+  },
+  "devDependencies": {
+    "md-to-pdf": "latest"
+  }
+}
