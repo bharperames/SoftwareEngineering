@@ -27,7 +27,7 @@ The updates emphasize a bifurcated pedagogical approach:
 *Current Focus:* Agile methodologies, version control, CI/CD, and practical software creation.
 *Proposed AI Integration (Pragmatic Focus):* 
 *   **Test-Driven Agent Development (TDAD):** Shift from writing all code manually to writing strict, deterministic test suites and interface definitions *first*, and using coding agents (like Cursor or GitHub Copilot) to generate the implementation.
-*   **The Salary Inversion Problem:** Teach the real-world economics of agentic loops. If an autonomous agent enters an infinite loop, cloud API costs can quickly eclipse an engineer's salary. Teach developers how to mandate `max_iterations`, budget tokens per sprint, and use circuit breakers.
+*   **Compute Expenditure Bounds:** Teach the real-world economics of agentic loops. If an autonomous agent enters an infinite loop, cloud API costs can quickly eclipse an engineer's salary. Teach developers how to mandate `max_iterations`, budget tokens per sprint, and use circuit breakers.
 *   **CI/CD LLM Validation:** Integrating small open-weight models to automatically analyze pull requests and check for performance regressions before merges.
 
 ### 4. SE 3170: Introduction to Software Testing
