@@ -58,11 +58,11 @@ Engineers interviewing at leading firms should evaluate employers on their AI in
 To understand how rapidly the landscape has shifted, consider how a "technically smart" graduating software engineer sounded in **2020** compared to today.
 
 **The 2020 Graduate:**
-*"I've deep-dived into the internals of the V8 JavaScript engine to optimize garbage collection pauses. I can recite the TCP/IP handshake sequence from memory, and I've spent the last month mastering the rendering quirks and lifecycle hooks of React 16. I also pride myself on my Git CLI skills—I meticulously run interactive rebases to maintain a perfectly clean commit history and manually resolve all merge conflicts before opening a pull request."*
-* **Focus:** Encyclopedic syntax knowledge, framework-specific details, and demonstrating technical capability through manual command-line proficiency (like Git CLI version control).
+*"I've deep-dived into internals of the V8 JavaScript engine and spent the last month mastering React 16's rendering quirks. I also pride myself on my Git CLI proficiency—I meticulously perform interactive rebases and manually resolve all merge conflicts."*
+* **Focus:** Encyclopedic syntax knowledge, framework internals, and manual command-line operation.
 
 **The Modern Graduate (2026+):**
-*"I've optimized our team's agentic loop to reduce our token burn rate by 15% without degrading output quality. I implemented a multi-fidelity router to send routine data transformation tasks to a local 8B open-weight model, saving our expensive frontier API calls for complex system reasoning. Instead of manually writing boilerplate or resolving standard merge conflicts via the CLI, I architecture our IDE's AI to handle the heavy lifting, allowing me to focus entirely on bounding its probabilistic output."*
-* **Focus:** Token economics, probabilistic vs. deterministic routing, model sizing (parameters vs latency), and orchestrating AI to handle manual syntactical work and routine version control.
+*"I optimized our team's agentic loop to reduce token burn rate by 15%. I routed routine data transformations to a local 8B model, saving expensive frontier calls for complex reasoning. Instead of resolving merge conflicts or writing boilerplate manually, I coordinate our IDE's AI to handle the heavy lifting."*
+* **Focus:** Token economics, multi-fidelity routing, model sizing, and orchestrating AI workflows.
 
 The underlying engineering rigor hasn't changed—but the fundamental abstraction layer has permanently shifted upwards.
