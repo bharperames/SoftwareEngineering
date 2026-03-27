@@ -3,8 +3,8 @@
 With the rapid emergence of agentic workflows and the "probabilistic computer" paradigm, the Software Engineering curriculum must evolve to prepare students for the modern professional environment. The following proposal maps the core concepts from the new AI-driven software engineering landscape onto Iowa State University's existing SE course sequence, and proposes a new advanced course for students pursuing a more in-depth systems architect role.
 
 The updates emphasize a bifurcated pedagogical approach:
-1. **Pragmatic/Applied Track (Track B)**: Understanding how to effectively *use* AI constraints, budgets, and tools in daily workflows.
-2. **Advanced/Systems Architect Track (Track A)**: Understanding how to *build* the underlying probabilistic systems, parse token economics at scale, and architect new agentic hardware/software.
+1. **Pragmatic/Applied Track (Track A)**: Understanding how to effectively *use* AI constraints, budgets, and tools in daily workflows.
+2. **Advanced/Systems Architect Track (Track B)**: Understanding how to *build* the underlying probabilistic systems, parse token economics at scale, and architect new agentic hardware/software.
 
 ---
 
