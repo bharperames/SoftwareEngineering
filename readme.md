@@ -40,6 +40,7 @@ We are moving toward treating the LLM as a virtual operating system kernel:
 Probabilistic execution is not just a software abstraction; it is increasingly supported by dedicated hardware architectures. Future engineers must understand how specialized AI accelerators (like NPUs and TPUs) natively execute probabilistic models and large-scale matrix operations, prioritizing memory bandwidth and parallel compute over raw CPU clock speeds.
 
 ### New Development Paradigms
+*   **Open-Source Autonomous Agents (e.g., OpenClaw):** Understanding system-level agents that run locally to execute shell commands, automate browsers, and manipulate file systems. Engineers must learn how to construct "AgentSkills" and build security layers (like DefenseClaw) to mitigate local prompt injection vulnerabilities.
 *   **Test-Driven Agent Development (TDAD):** Engineers write rigorous deterministic test suites *first* and rely on AI agents to repeatedly generate implementations that satisfy those tests.
 *   **Multi-Fidelity Routing:** Routing high-precision needs to classical deterministic algorithms, and routing unstructured intent parsing to stochastic LLMs.
 

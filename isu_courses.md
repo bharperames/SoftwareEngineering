@@ -59,3 +59,4 @@ This course dives deep into the emerging execution environment where probabilist
 3. **Decoupled Asynchronous AI Infrastructure:** Using message brokers (Kafka, RabbitMQ) to decouple high-latency LLM inference from user-facing request/response cycles.
 4. **Stateful Caching for AI:** Implementing vector caches (Redis) to store embeddings or exact-match prompt responses to drastically reduce compute redundancy and token expenditure.
 5. **Zero-Trust AI:** Evaluating coding assistants and managing the risk of proprietary data leakage using local, quantized open-weight models.
+6. **Local Autonomous Agents & Security:** Exploring system-level automation with emerging open-source agents (e.g., OpenClaw). Architecting "AgentSkills" for local execution, and establishing security boundaries to defend against prompt injection in high-privilege environments.
