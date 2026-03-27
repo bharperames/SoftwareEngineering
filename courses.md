@@ -39,6 +39,7 @@ The updates emphasize a bifurcated pedagogical approach:
 ### 5. SE 3390: Software Architecture and Design
 *Current Focus:* Client-server models, microservices, design patterns, and system scaling.
 *Proposed AI Integration (Advanced Focus):* 
+*   **Model Sizing & Parameter Optimization:** Understanding the architectural trade-offs of parameter counts (e.g., 8B vs 70B). Evaluating VRAM requirements, latency, and throughput when selecting a foundation model for a specific service tier.
 *   **Retrieval-Augmented Generation (RAG) Architecture:** Designing systems that ground probabilistic models using deterministic enterprise data. Introduce semantic search, vector databases (PgVector, Milvus), and cosine similarity metrics.
 *   **Agentic Architecture & ReAct:** Moving beyond static control flow (if/else branching) to stochastic orchestration (Reasoning and Acting). 
 *   **Multi-Fidelity Routing:** Designing routing gateways that dynamically send high-precision tasks to classical deterministic algorithms, and unstructured intent tasks to stochastic LLM endpoints. 
