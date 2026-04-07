@@ -86,4 +86,4 @@ To understand how rapidly the landscape has shifted, consider how a "technically
 *"I optimized our team's agentic loop to reduce token burn rate by 15%. I routed routine data transformations to a local 8B model, saving expensive frontier calls for complex reasoning. Instead of resolving merge conflicts or writing boilerplate manually, I use the AI agents to handle the heavy lifting through tool configuration and prompt engineering."*
 * **Focus:** Token economics, multi-fidelity routing, model sizing, orchestrating and optimizing AI workflows.
 
-The underlying engineering rigor hasn't changed—but the fundamental abstraction layer continues to abstract upwards.
+The underlying engineering rigor hasn't changed—but the fundamental abstraction layer continues to move up.
