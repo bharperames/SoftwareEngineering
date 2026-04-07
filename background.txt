@@ -274,4 +274,4 @@ Track A (Advanced / Systems Architect): The asymptotic cost complexity of an age
 
 Track B (Pragmatic / Applied Developer): If an AI coding assistant gets stuck trying to fix a bug and runs in a loop overnight, it can consume tens of thousands of dollars in cloud API costs. Developers must treat AI calls exactly like expensive database queries. This means always setting a max_iterations limit on agents, monitoring daily token burn rates, and knowing when a problem is cheaper to solve manually than delegating to an expensive frontier model.
 
-To demonstrate the mathematical reality of the "Salary Inversion" problem within agentic workflows, the following interactive model visualizes how rapidly token economics scale when autonomous loops are introduced to the developer's daily workflow.
+To demonstrate the mathematical reality of the "Salary Inversion" problem within agentic workflows, the following interactive model visualizes how rapidly token economics scale when autonomous loops are introduced to the developer's daily workflow. 
